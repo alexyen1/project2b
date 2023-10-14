@@ -28,7 +28,7 @@ UNIQNAME    = alexyen
 IDENTIFIER  = 43DE0E0C4C76BFAA6D8C2F5AEAE0518A9C42CF4E
 
 # Change 'executable' to match the command name given in the project spec.
-EXECUTABLE  = testPQ
+EXECUTABLE  = awd
 
 # The following line looks for a project's main() in files named project*.cpp,
 # executable.cpp (substituted from EXECUTABLE above), or main.cpp
